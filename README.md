@@ -9,6 +9,7 @@ This repository contains the code, outputs, and presentation materials for Pract
 ## Contents
 - Homework1_MarkDaza.Rmd: Full code and model implementation using tree, bagging, random forest, and boosting.
 - 202500405_YouthData.pdf: Final presentation slide deck (without speaker notes).
+- https://www.youtube.com/watch?v=-WNgY6EFwxc&ab_channel=Mark - Link to Presentation Video
 
 
 ## Methods Used
